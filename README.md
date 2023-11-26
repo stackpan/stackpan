@@ -1,8 +1,9 @@
 ### Hi, I'm Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- [![Website](https://img.shields.io/badge/student-yes-green?style=flat)](https://google.com) -->
 
-- I code as a hobby
-- Start programming since 2019
+Love ~to~ live and learn
+
+Start programming since 2019
 
 ## GitHub Stats
 
