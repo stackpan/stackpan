@@ -6,13 +6,11 @@ Love ~to~ live and learn
 Start programming since 2019
 
 ## GitHub Stats
-
-<a href="https://github.com/stackpan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&hide=css&hide_border=true&layout=compact" />
-</a>
-<a href="https://github.com/stackpan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stackpan&show_icons=true&hide_border=true&hide=issues&count_private=true" alt="Vanefka's GitHub Stats" />
-</a>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&count_private=true" />
+</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stackpan&theme=graywhite&hide_border=false" />
 
 ## Connect with me:
 [<img align="left" alt="Ivan Rizkyanto | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
