@@ -8,8 +8,12 @@ Start programming since 2019
 ## GitHub Stats
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&count_private=true" />
 <div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=stackpan&theme=graywhite&hide_border=false" />
+    <a>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
+    </a>
+    <a>
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stackpan&theme=graywhite&hide_border=false" />
+    </a>
 </div>
 
 ## Connect with me:
