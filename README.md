@@ -6,10 +6,10 @@ Love ~to~ live and learn
 Start programming since 2019
 
 ## GitHub Stats
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
 <div>
     <a>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=stackpan&theme=graywhite&show_icons=true&hide_border=false&count_private=true" />
     </a>
     <a>
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stackpan&theme=graywhite&hide_border=false" />
