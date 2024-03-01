@@ -5,7 +5,6 @@ Love ~to~ live
 
 Start programming since 2019
 
-# GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=stackpan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&layout=compact&hide_border=true&theme=transparent&card_width=450px)
