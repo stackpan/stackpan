@@ -5,9 +5,9 @@ Love ~to~ live
 
 Start programming since 2019
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stackpan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=stackpan&show_icons=true&theme=transparent&hide_border=false&count_private=true&card_width=500px)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&layout=compact&hide_border=true&theme=transparent&card_width=450px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stackpan&layout=compact&hide_border=false&theme=transparent&card_width=500px)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
