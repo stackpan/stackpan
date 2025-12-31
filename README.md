@@ -2,7 +2,3 @@
 <!-- [![Website](https://img.shields.io/badge/student-yes-green?style=flat)](https://google.com) -->
 
 Love ~to~ live
-
-Start programming since 2019
-
-Java 🤝 Kotlin 🤝 PHP 🤝 Javascript/Typescript
